@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AdvancedScrollView",
+        "repositoryURL": "https://github.com/dmytro-anokhin/advanced-scrollview.git",
+        "state": {
+          "branch": "main",
+          "revision": "edace8fed9df7931ce5ee4bd1a9dfbf7948b6515",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
